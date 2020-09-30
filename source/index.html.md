@@ -592,7 +592,7 @@ console.log(result);
 Promise { <pending> }
 {
     "data": {
-        "stats": 290,
+        "assetId": 0,
         "assetName": "gcoin",
         "symbol": "gcoin",
         "amount": 1000000000000000000,
@@ -602,7 +602,10 @@ Promise { <pending> }
         "addIssue": 1000000000000000000,
         "upperLimit": 0,
         "contract": "",
-        "description": "GCoin"
+        "createdAt": 1598284800,
+        "destructionNum": 0,
+        "description": "GCoin",
+        "logo": ""
     },
     "errorCode": 0,
     "errorMsg": ""
@@ -634,7 +637,7 @@ console.log(result);
 Promise { <pending> }
 {
     "data": {
-        "stats": 290,
+        "assetId": 0,
         "assetName": "gcoin",
         "symbol": "gcoin",
         "amount": 1000000000000000000,
@@ -644,7 +647,10 @@ Promise { <pending> }
         "addIssue": 1000000000000000000,
         "upperLimit": 0,
         "contract": "",
-        "description": "GCoin"
+        "createdAt": 1598284800,
+        "destructionNum": 0,
+        "description": "GCoin",
+        "logo": ""
     },
     "errorCode": 0,
     "errorMsg": ""
